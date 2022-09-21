@@ -1,10 +1,10 @@
 # vCard - Personal portfolio
-Credit Goes to [Codewithsadee](https://github.com/codewithsadee)
+## Credit Goes to [Codewithsadee](https://github.com/codewithsadee)
 
-[Original Repo](https://github.com/codewithsadee/vcard-personal-portfolio)
+## [Original Repo](https://github.com/codewithsadee/vcard-personal-portfolio)
 
 
-[Demo](https://ahmedraza17260.github.io/raza-personal-portfolio/)
+## [Demo](https://ahmedraza17260.github.io/raza-personal-portfolio/)
 
 <!-- [!GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
 [!GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
